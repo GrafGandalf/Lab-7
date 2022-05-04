@@ -12,3 +12,4 @@ namespace Masiv
     int* FunSmena(int x, int y, int Mess[10000]);
 }
 
+//sjvhshsovsviov
